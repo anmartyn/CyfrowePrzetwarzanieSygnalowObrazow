@@ -1,17 +1,17 @@
-# CyfrowePrzetwarzanieSygnalowObrazow
+# Cyfrowe Przetwarzanie Sygnalow i Obrazow
 
-### Informacje ogólne
+## Informacje ogólne
 
 Repozytorium zawiera rozwiązania zadań laboratoryjnych realizowanych w ramach przedmiotu **Cyfrowe przetwarzanie sygnałów i obrazów** na 6 semestrze studiów na Politechnice Wrocławskiej.
 
 Zajęcia mają na celu pogłębienie umiejętności analizy i przetwarzania danych z wykorzystaniem języka Python. Dodatkowo, wykorzystywane są środowiska takie jak Jupyter Notebook, aby zwiększyć biegłość w pracy z narzędziami interaktywnymi i wizualizacją danych.
 
-### Struktura repozytorium
+## Struktura repozytorium
 
 - Zadania/ – zawiera treści zadań laboratoryjnych
 - Lab1/, Lab2/ – katalogi z kodem źródłowym i plikami testowymi dla poszczególnych laboratoriów
 
-### Uruchomienie programu
+## Uruchomienie programu
 
 **a) Uruchomienie w Jupyter Notebook**
 
