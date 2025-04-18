@@ -1,4 +1,4 @@
-# Cyfrowe Przetwarzanie Sygnalow i Obrazow
+# Cyfrowe Przetwarzanie Sygnałow i Obrazów
 
 ## Informacje ogólne
 
